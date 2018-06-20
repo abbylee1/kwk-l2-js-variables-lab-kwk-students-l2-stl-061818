@@ -1,2 +1,2 @@
-let companyName = Scruber
-let mostProfitableNeighborhood = 
+let companyName = 'Scruber'
+let mostProfitableNeighborhood = 'Chelsea'
